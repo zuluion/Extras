@@ -1,5 +1,5 @@
 {
-    "version": "2025.3.4-253.32098.74",
+    "version": "2026.1-261.22158.340",
     "description": "Cross-Platform IDE for Python by JetBrains.",
     "homepage": "https://www.jetbrains.com/pycharm/",
     "license": {
@@ -11,8 +11,8 @@
         "PyCharm Community 2025.2 is the last standalone version available to existing users only.",
         "For more information, see: https://blog.jetbrains.com/pycharm/2025/04/unified-pycharm/"
     ],
-    "url": "https://download.jetbrains.com/python/pycharm-2025.3.4.win.zip",
-    "hash": "ca5ffa0793253e1001e322a796fa60dfc25364e291987dd0dc86d2efb07d8259",
+    "url": "https://download.jetbrains.com/python/pycharm-2026.1.win.zip",
+    "hash": "031778800f21bc19f51f356237519dc92109d595df00f4a6183b83fd5927d02a",
     "extract_to": "IDE",
     "installer": {
         "script": [
