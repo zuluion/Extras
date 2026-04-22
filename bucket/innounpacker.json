@@ -1,10 +1,10 @@
 {
-    "version": "2.2.7",
+    "version": "2.2.8",
     "description": "GUI for Inno Setup Unpacker (innounp)",
     "homepage": "https://www.rathlev-home.de/tools/prog-e.html#unpack",
     "license": "Freeware",
     "url": "https://www.rathlev-home.de/tools/download/innounpacker.zip",
-    "hash": "20df2e5af72cc989bc903362d98e187d548f41012f54c3eefd7373d8a88805a7",
+    "hash": "17880fb44024270212534475149b57adf5d5f5bb0d4f746395e6018bded849d1",
     "bin": [
         "innounp.exe",
         "InnoUnpack.exe"
