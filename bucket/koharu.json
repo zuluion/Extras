@@ -1,5 +1,5 @@
 {
-    "version": "0.100.3",
+    "version": "0.101.2",
     "description": "ML-powered manga translator, written in Rust.",
     "homepage": "https://koharu.rs/",
     "license": "GPL-3.0-only|Apache-2.0",
@@ -8,8 +8,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/mayocream/koharu/releases/download/0.100.3/koharu_0.100.3_x64-setup.exe#/dl.7z",
-            "hash": "8fb5c1a1abfcacbd13aa86d3238f3d0e65baf0464511488ec56e45f12e28c4cb"
+            "url": "https://github.com/mayocream/koharu/releases/download/0.101.2/koharu_0.101.2_x64-setup.exe#/dl.7z",
+            "hash": "e4df260bd8844966320acd47f1b40441336747c7e9ad5daeb1a72a379bfab8a6"
         }
     },
     "pre_install": [
